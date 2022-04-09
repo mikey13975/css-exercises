@@ -1,0 +1,20 @@
+.odd {
+    background-color: #ff00ff;
+    font-family:Verdana DejaVu-Sans ;
+    fallback: sans-serif;   
+}
+
+.ball{
+    font-size: 24px;
+}
+
+#two{
+    color:blue;
+    font-size:36px;
+}
+
+#four{
+    background-color:#7cfc00;
+    font-size:24px;
+    font-weight:bold;
+}
